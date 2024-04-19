@@ -1,0 +1,14 @@
+body {
+     background-image: url('./background.jpg');
+}
+h1 {
+color: rgb(16, 51, 19);
+text-align: center;
+}
+#css
+{
+color: blue;
+}
+main section p{
+     text-align: center;
+}
